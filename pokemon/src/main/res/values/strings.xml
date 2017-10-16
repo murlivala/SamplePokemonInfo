@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokemonInfo</string>
+    <string name="network_error">Either Internet is not working or Network Timeout.</string>
+    <string name="text_loading">Loading...</string>
+    <string name="text_last_viewed">Last Viewed: </string>
+    <string name="text_loaded">Loaded: </string>
+    <string name="text_total_pokemon">Total Pokemon: </string>
+    <string name="text_weight">Weight : </string>
+    <string name="text_height">Height : </string>
+</resources>
